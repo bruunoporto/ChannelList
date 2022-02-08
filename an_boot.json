@@ -3,7 +3,7 @@
         "14572457000185" : ["Jovem Pan"]
     },
     "channels" : {
-        "Jovem Pan": "https://www.youtube.com/embed/21X5lGlDOfg",
-        "Nasa (Youtube)": "https://www.youtube.com/embed/21X5lGlDOfg"
+        "Jovem Pan": "https://www.youtube.com/embed/21X5lGlDOfg?autoplay=1",
+        "Nasa (Youtube)": "https://www.youtube.com/embed/21X5lGlDOfg?autoplay=1"
     }
 }
