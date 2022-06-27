@@ -5,9 +5,15 @@
     "channels" : {
         "Jovem Pan": "https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8",
         "Nasa (Youtube)": "https://www.youtube.com/embed/21X5lGlDOfg?autoplay=1",
+        "16": "http://168.121.244.252:8888/stream/16/index.m3u8",
+        "17": "http://168.121.244.252:8888/stream/17/index.m3u8",
+        "18": "http://168.121.244.252:8888/stream/18/index.m3u8",
+        "19": "http://168.121.244.252:8888/stream/19/index.m3u8",
         "Dax TV (SBT)": "http://168.121.244.252:8888/stream/14/index.m3u8",
         "Dax TV (Globo)": "http://168.121.244.252:8888/stream/13/index.m3u8",
         "Dax TV (Record)": "http://168.121.244.252:8888/stream/15/index.m3u8",
-        "Dax TV": "http://168.121.244.252:8888/stream/12/index.m3u8"
+        "Dax TV": "http://168.121.244.252:8888/stream/12/index.m3u8",
+        "11": "http://168.121.244.252:8888/stream/11/index.m3u8",
+        "10": "http://168.121.244.252:8888/stream/10/index.m3u8"
     }
 }
