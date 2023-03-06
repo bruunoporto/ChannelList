@@ -4,17 +4,11 @@
     },
     "channels" : {
         "Jovem Pan": "https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8",
-        "Nasa (Youtube)": "https://www.youtube.com/embed/21X5lGlDOfg?autoplay=1",
-        "16": "http://168.121.244.252:8888/stream/16/index.m3u8",
-        "17": "http://168.121.244.252:8888/stream/17/index.m3u8",
-        "18": "http://168.121.244.252:8888/stream/18/index.m3u8",
-        "19": "http://168.121.244.252:8888/stream/19/index.m3u8",
-        "20": "http://168.121.244.252:8888/stream/20/index.m3u8",
-        "21": "http://168.121.244.252:8888/stream/21/index.m3u8",
-        "Dax TV (SBT)": "http://168.121.244.252:8888/stream/14/index.m3u8",
-        "Dax TV (Globo)": "http://168.121.244.252:8888/stream/13/index.m3u8",
-        "Dax TV (Record)": "http://168.121.244.252:8888/stream/15/index.m3u8",
-        "Dax TV": "http://168.121.244.252:8888/stream/12/index.m3u8"
-        
+        "Band News": "https://stream-02.nyc.dailymotion.com/sec(D9J3chSPMBKwmID2SmGTMHjYePm_5yptWhJalhM8XWm2E9UEkfsXBDB6wAr3bNRu)/dm/3/x8d1wje/s/live-1.m3u8",
+        "Cartoon Network Shorts": "https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist-720p.m3u8",
+        "Discovery Kids Shorts": "https://playout.cdn.cartoonnetwork.com.br/playout_07/playlist-720p.m3u8",
+        "Red Bull TV": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8",
+        "NHK": "https://nhkwlive-burnin2.webcdn.stream.ne.jp/live/index_1M.m3u8",
+        "Real Madrid TV": "https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8"
     }
 }
