@@ -2,84 +2,92 @@
     "Jovem Pan": {
         "url": "https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_2.m3u8",
         "youtube": "",
+        "tag": "News",
         "site": "https://jovempan.com.br/"
     },
 
     "Cartoon Network Shorts": {
         "url": "https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist-720p.m3u8",
         "youtube": "",
+        "tag": "Kids",
         "site": "https://cnapp.cartoonnetwork.com.br/now/freelive1"
     },
 
     "Discovery Kids Shorts": {
         "url": "https://playout.cdn.cartoonnetwork.com.br/playout_07/playlist-720p.m3u8",
         "youtube": "",
+        "tag": "Kids",
         "site": "https://www.discoverykids.com.br/now/freelive3"
     },
 
     "Red Bull TV": {
         "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8",
         "youtube": "",
+        "tag": "Sports",
         "site": "https://alessandrojean.github.io/m3u8-cli/"
     },
 
     "NHK": {
         "url": "https://nhkwlive-burnin2.webcdn.stream.ne.jp/live/index_1M.m3u8",
         "youtube": "",
+        "tag": "News",
         "site": "https://www3.nhk.or.jp/nhkworld/pt/live/"
     },
 
     "Real Madrid TV": {
         "url": "https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8",
         "youtube": "",
+        "tag": "Sports",
         "site": "https://www.realmadrid.com/pt/real-madrid-tv"
     },
 
     "Teletrack": {
     	"url": "https://mdstrm.com/live-stream-playlist/62616df888feb366839a3eb5.m3u8",
     	"youtube": "",
+        "tag": "Sports",
     	"site": "https://www.teletrak.cl/envivo/vivo.html"
     },
     
     "Porto Canal": {
     	"url": "https://stream-02.nyc.dailymotion.com/sec(-SVy60QQ6sKn1Jfj-v9Q0jpKt0aReY_ELGj6qpRqlRifDJWNm3DE1MUMu7gmDLg2)/dm/3/x8egnb8/s/live-1.m3u8",
     	"youtube": "",
+        "tag": "News",
     	"site": "https://portocanal.sapo.pt/live"
     },
     
     "Kuriakos": {
     	"url": "https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8",
     	"youtube": "",
+        "tag": "Gospel",
     	"site": "http://www.kuriakos-tv.com/"
     },
     
     "TV Florida": {
     	"url": "https://srv1.zcast.com.br/tvflorida/tvflorida/playlist.m3u8",
     	"youtube": "",
+        "tag": "News",
     	"site": "https://tvfloridausa.com/ao-vivo/"
     },
     
-    "HSN": {
-    	"url": "",
-    	"youtube": "https://www.youtube.com/watch?v=1ph8qQnjXts",
-    	"site": "https://www.hsn.com/watch/live"
-    },
-    
+
     "3ABN": {
     	"url": "https://3abn-live.akamaized.net/hls/live/2010547/Latino/master.m3u8",
     	"youtube": "",
+        "tag": "Gospel",
     	"site": "https://3abnlatino.tv/tv/"
     },
     
     "Aleluya TV": {
     	"url": "https://tv.aleluya.cloud:5443/lidp/streams/live2.m3u8",
     	"youtube": "",
+        "tag": "Gospel",
     	"site": "https://aleluyatv.org/"
     },
     
     "TV Max Rio": {
     	"url": "https://5cf4a2c2512a2.streamlock.net/tvmax/tvmax/playlist.m3u8",
     	"youtube": "",
+    	"tag": "Misc",
     	"site": "https://www.tvmaxrio.net/"
     }
 }
