@@ -5,12 +5,6 @@
         "site": "https://jovempan.com.br/"
     },
 
-    "Record News": {
-        "url": "",
-        "youtube": "https://www.youtube.com/watch?v=0MXGBnqnnd8",
-        "site": "https://noticias.r7.com/record-news"
-    },
-
     "Cartoon Network Shorts": {
         "url": "https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist-720p.m3u8",
         "youtube": "",
@@ -41,12 +35,6 @@
         "site": "https://www.realmadrid.com/pt/real-madrid-tv"
     },
 
-    "C5N": {
-        "url": "",
-        "youtube": "https://www.youtube.com/watch?v=W2jZ7lEnDnc",
-        "site": "https://www.c5n.com/vivo"
-    },
-    
     "Teletrack": {
     	"url": "https://mdstrm.com/live-stream-playlist/62616df888feb366839a3eb5.m3u8",
     	"youtube": "",
