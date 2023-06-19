@@ -28,7 +28,7 @@
     },
 
     "NHK": {
-        "url": "https://nhkwlive-burnin2.webcdn.stream.ne.jp/live/index_1M.m3u8",
+        "url": "https://b-bmcc.nhkworld.jp/live/index_1M.m3u8",
         "youtube": "",
         "tag": "News",
         "site": "https://www3.nhk.or.jp/nhkworld/pt/live/"
