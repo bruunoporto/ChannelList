@@ -221,18 +221,6 @@
         "tag": "News",
         "site": "https://www.indiatoday.in/livetv"
     },
-    "TRT World": {
-        "url": "https://tv-trtworld.live.trt.com.tr/master_360.m3u8",
-        "youtube": "",
-        "tag": "News",
-        "site": "https://www.trtworld.com/live-stream"
-    },
-    "CBS News": {
-        "url": "https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/2b0b40cf-9c69-419a-b9e3-d8f952d80353:SCL/master.m3u8",
-        "youtube": "",
-        "tag": "News",
-        "site": "https://www.cbsnews.com/live/"
-    },
     "NASA": {
         "url": "https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8",
         "youtube": "",
