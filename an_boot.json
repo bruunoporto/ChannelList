@@ -89,59 +89,17 @@
     	"tag": "Misc",
     	"site": "https://www.tvmaxrio.net/"
     },
-    "Rai News": {
-        "url": "https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8?hdnea=st=1691671073~exp=1691671223~acl=/*~hmac=d82a8ad70217d14f4a71641e42d5e71697958a9465b44220059067dddaf1c22a",
-        "youtube": "",
-        "tag": "News",
-        "site": "https://www.rainews.it/notiziari/rainews24"
-    },
-    "Rate 8": {
-        "url": "https://dacastmmd.mmdlive.lldns.net/dacastmmd/ae2a474227e7496aaf9380bc9e2eaf91/manifest.m3u8?p=79&s=1691671709&e=1691671829&h=b25ceb82a0db4366f23017b9dc0db3ac",
-        "youtube": "",
-        "tag": "Misc",
-        "site": "https://www.rete8.it/canali-tv/rete8-sport/"
-    },
     "Canale 7": {
         "url": "https://59d7d6f47d7fc.streamlock.net/canale7/canale7/chunklist_w534523333.m3u8",
         "youtube": "",
         "tag": "Misc",
         "site": "https://www.canale7.tv/"
     },
-    "Telemax": {
-        "url": "https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w194600927_b364000_sleng.m3u8",
-        "youtube": "",
-        "tag": "Misc",
-        "site": "https://www.canal26.com/telemax"
-    },
-    "LatinaTV": {
-        "url": "https://live-edge01.telecentro.net.ar/live/smil:rltn.smil/chunklist_w1852410569_b1428000_sleng.m3u8",
-        "youtube": "",
-        "tag": "Misc",
-        "site": "https://www.canal26.com/latinatv"
-    },
-    "Music Top": {
-        "url": "https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1052193609_b964000_sleng.m3u8",
-        "youtube": "",
-        "tag": "Music",
-        "site": "https://www.canal26.com/musictop"
-    },
-    "Tierra Mia": {
-        "url": "https://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist_w1695944029_b1864000_sleng.m3u8",
-        "youtube": "",
-        "tag": "Misc",
-        "site": "https://www.canal26.com/tierramia"
-    },
     "TV Peru": {
         "url": "https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index.m3u8",
         "youtube": "",
         "tag": "News",
         "site": "https://www.tvperu.gob.pe/play"
-    },
-    "ABC": {
-        "url": "https://content-asae1-up-1.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be/c.m3u8?rays=hjigfedcba&ad.flex=15&ad.access_level=0&expand=drmOff&v=3&ad.adunit=/abc-news/abcnews.com/web/video&ad=abcnews_live&ad.pp=datg-live-vdms&ad.v=2&ad.is_lat=0&ad.npa=0&ad.tfcd=0&ad.vast3=1&ad.vid=$program_id&ad.description_url=https://abcnews.go.com/&ad.ppid=2e3564b2072b46c6983a374fcd098a83&ad.us_privacy=&prbd.server=drax&ad.prbd=drax&ad.rdp=0&ad.cust_params=chan%3Dabc%26beacTyp%3Dssai%26stp%3Dvdms%26ait%3Dssai%26vdm%3Dlive%26var%3D16x9%26accesslevel%3D0%26isAuth%3D0%26lang%3Den%26aff%3Dabc%26swid%3D2e3564b2-072b-46c6-983a-374fcd098a83%26tag%3D%26objid%3Dabc_live11%26refDomain%3Dhttps%3A%2F%2Fabcnews.go.com%2FLive%26plt%3Dweb%26d_us_privacy%3D&ad.adUnit=/abc-news/abcnews.com/web/video&ad.paln=AQzzBGQEtgd2uzQt-21gRB_C8_IwgOFTy_5Nf3JPZNMubvw_w4pgvTa2DmC1ow7z2E287gYzxWv9fxMlCywEjYyJATj6pfiHFEQCn1CKqmQLjFdxsZlWtejNFvF3TW-G-D0XbyjFdGXTvbywVeKCCMEAIeE3XtkqaNdEwu75wgpVhboSCMCovo1dLHXknJsWuu-df0fAW2ZZSTjQjrXTmYTKJtoQYrD2GKb3za9s9Wk0AhLA47E62emb-J_aKH-KGmGXXjVIT2eY1PSYZOZscVBUhZoRqCyxLljp0I2vgB5vlxmkf0gnWq8NSW6P2qtV0YJDZInwEVVdeq0iJwPaKZ6iTiHM1WJvwRGhLUI6-lapGwqRmt4iCNQ-t29u4mrD0BSgkCP4_qarUYkehANioLhdNf9r7-OPfbl8ep-uUY_UG0wOYTVZYpI2-bgY_ApolmrvhIj3sqLH41pI1fpx4ImpdHz7GmSNgkcOZXZQQ6hQedZZZHpsATDI6VzxAdzqMrxnTMKArxZ6uJTRp7VnXyyrtFLaKC6cd0i5DQpzenRc0gVT-6qhyB-MfutjXa42B_oiI0J8URGcMgbfLbu4-S4pg3X_RH8zVYIGEXLHXxt8IZXclrCIw_66-dvGzwEoTwlSkid7elafmf6Z3iHMxaQvDosDgp8TeIDahpO9hFX26rKAt8W_Y5H-hPn1FdCZB19h-zFaUR4eW2EGKlrT1ZfKIWP9KnPRNV6XhUtAU1ZBKxi4Cg..&pbs=01cb3306ad654c41a26a2d9fff950041",
-        "youtube": "",
-        "tag": "News",
-        "site": "https://abcnews.go.com/Live"
     },
     "Bloomberg": {
         "url": "https://dai.google.com/linear/hls/pa/event/BVlOmFGaTi6NpchccR14yA/stream/61ed9769-216e-4342-a8c5-8d155f48a293:SCL/variant/89b8a4328e4b55858d004b951b6518e1/bandwidth/1500000.m3u8",
@@ -155,12 +113,6 @@
         "tag": "News",
         "site": "https://news.sky.com/watch-live"
     },
-    "Al Jazeea": {
-        "url": "",
-        "youtube": "https://www.youtube.com/watch?v=gCNeDWCI0vo",
-        "tag": "News",
-        "site": "https://www.aljazeera.com/live"
-    },
     "Adom TV": {
         "url": "https://stream-04.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl1Job-TEgG4D3sTAynkFJlLav8uSU1JsUUIQf3O3XAWb)/dm/3/x7w71b8/s/live-0.m3u8",
         "youtube": "",
@@ -173,29 +125,11 @@
         "tag": "Music",
         "site": "https://www.mtv.com.lb/OneTV/Live"
     },
-    "TPA": {
-        "url": "https://playback2.akamaized.net/streams/30360708_9496693_lsisak1si1pl2vvv99f_1/master.m3u8?dw=14400&hdnts=exp=1691681017~acl=/streams/30360708_9496693_lsisak1si1pl2vvv99f_1/master.m3u8*~hmac=174744e750cc3d916b324248e7c3b5193fae2616d74ea42e8c553b7967ff8a2b",
-        "youtube": "",
-        "tag": "Misc",
-        "site": "https://tpa.ao/ao/gca/index.php?id=250"
-    },
-    "24 News": {
-        "url": "",
-        "youtube": "https://www.youtube.com/watch?v=V_MXWptocIE",
-        "tag": "News",
-        "site": "https://www.twentyfournews.com/live"
-    },
     "NewsMax": {
         "url": "https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8?CMCD=cid%3D%22newsmaxlive%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22bd70b78c-a272-4215-8baa-16fa72253162%22%2Csu",
         "youtube": "",
         "tag": "News",
         "site": "https://www.newsmaxtv.com/"
-    },
-    "GB News": {
-        "url": "https://videostitcher.googleapis.com/v1/projects/286166234322/locations/europe-west1/daiLiveSessions/3a3f00ef-972e-4489-b0f8-9f29aadbe25b-gam/manifest.m3u8?vsauth=AZc7-kaB_jMDB-mEQfEI2I9q_zGJ",
-        "youtube": "",
-        "tag": "News",
-        "site": "https://www.gbnews.com/watch/live"
     },
     "Smotrim": {
         "url": "https://vgtrksmotrim.cdnvideo.ru/hls/russia_24/playlist.m3u8?md5=dfkCqhR9WBGEtxi5zQX3bg&e=1691694840",
@@ -214,12 +148,6 @@
         "youtube": "",
         "tag": "News",
         "site": "https://legitpro.co.in/annnews/annnews/embed.html"
-    },
-    "ABC News": {
-        "url": "https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8",
-        "youtube": "",
-        "tag": "News",
-        "site": "https://www.abc.net.au/news/newschannel"
     },
     "DW": {
         "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/streamPlaylist.m3u8",
@@ -245,12 +173,6 @@
         "tag": "Misc",
         "site": "https://www.telem1.ch/live"
     },
-    "Citizen TV": {
-        "url": "",
-        "youtube": "https://www.youtube.com/watch?v=79KISIgEJZ8",
-        "tag": "Misc",
-        "site": "https://www.citizen.digital/tv/citizen-tv-15"
-    },
     "CGTN": {
         "url": "https://news.cgtn.com/resource/live/english/cgtn-news.m3u8",
         "youtube": "",
@@ -263,18 +185,6 @@
         "tag": "News",
         "site": "https://www.tvpublica.com.ar/"
     },
-    "Canal 26": {
-        "url": "",
-        "youtube": "https://www.youtube.com/watch?v=2IfTdw28WFY",
-        "tag": "News",
-        "site": "https://www.canal26.com/canal26-en-vivo"
-    },
-    "SBT": {
-        "url": "",
-        "youtube": "https://www.youtube.com/watch?v=ABVQXgr2LW4",
-        "tag": "Misc",
-        "site": "https://www.sbt.com.br/ao-vivo"
-    },
     "Rede Vida": {
         "url": "https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8",
         "youtube": "",
@@ -286,12 +196,6 @@
         "youtube": "",
         "tag": "Misc",
         "site": "https://www.rbtv.com.br/"
-    },
-    "Canção Nova": {
-        "url": "",
-        "youtube": "https://www.youtube.com/watch?v=KyKaSoGT-lA",
-        "tag": "Gospel",
-        "site": "https://tv.cancaonova.com/"
     },
     "TV Gazeta": {
         "url": "https://stream-01.nyc.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5v67mUCcH9Sk4bR9poA8Bf51MZPLGXX0fKkLryAeOmYvF)/dm/3/x89qors/s/live-0.m3u8",
@@ -317,12 +221,6 @@
         "tag": "News",
         "site": "https://www.indiatoday.in/livetv"
     },
-    "TVP World": {
-        "url": "https://rsdt-krk201-5.tvp.pl/token/video/live/51656539/20230810/3178919844/7kLlya2mL60eWn3MDuP8SXRBivJY9XgBaqDxdVn-TR_itffiK7Bio_AGfKOeV9rW5aT1TNn6wXcffdv3t_Gg7eTM5TJgV6Vru5dLTDeKSXFyWgxfqzvKF0MYKMt_LzL0RbOcDkZeJppvUKD80-3mgcpK1xBM47DfrpsGsHNYxI1lbsj0tvLBjB7S5QlQ1gEX/master.m3u8",
-        "youtube": "",
-        "tag": "News",
-        "site": "https://tvpworld.com/"
-    },
     "TRT World": {
         "url": "https://tv-trtworld.live.trt.com.tr/master_360.m3u8",
         "youtube": "",
@@ -341,5 +239,4 @@
         "tag": "News",
         "site": "https://www.nasa.gov/multimedia/nasatv/index.html#public"
     }
-
 }
