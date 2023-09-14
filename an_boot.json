@@ -48,13 +48,6 @@
     	"site": "https://www.teletrak.cl/envivo/vivo.html"
     },
     
-    "Porto Canal": {
-    	"url": "https://stream-02.nyc.dailymotion.com/sec(-SVy60QQ6sKn1Jfj-v9Q0jpKt0aReY_ELGj6qpRqlRifDJWNm3DE1MUMu7gmDLg2)/dm/3/x8egnb8/s/live-1.m3u8",
-    	"youtube": "",
-        "tag": "News",
-    	"site": "https://portocanal.sapo.pt/live"
-    },
-    
     "Kuriakos": {
     	"url": "https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8",
     	"youtube": "",
