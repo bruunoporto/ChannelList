@@ -94,41 +94,17 @@
         "tag": "News",
         "site": "https://www.tvperu.gob.pe/play"
     },
-    "Bloomberg": {
-        "url": "https://dai.google.com/linear/hls/pa/event/BVlOmFGaTi6NpchccR14yA/stream/61ed9769-216e-4342-a8c5-8d155f48a293:SCL/variant/89b8a4328e4b55858d004b951b6518e1/bandwidth/1500000.m3u8",
-        "youtube": "",
-        "tag": "News",
-        "site": "https://www.bloomberg.com/live/us"
-    },
     "Sky News": {
         "url": "https://linear021-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_sd/Live/channel(skynews)/04_hd30.m3u8",
         "youtube": "",
         "tag": "News",
         "site": "https://news.sky.com/watch-live"
     },
-    "Adom TV": {
-        "url": "https://stream-04.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl1Job-TEgG4D3sTAynkFJlLav8uSU1JsUUIQf3O3XAWb)/dm/3/x7w71b8/s/live-0.m3u8",
-        "youtube": "",
-        "tag": "News",
-        "site": "https://www.adomonline.com/adom-tv-live/"
-    },
     "MTV Lebanon": {
         "url": "https://live.3cd.io/v1/broadcast/one/tracks-v3a1/mono.m3u8",
         "youtube": "",
         "tag": "Music",
         "site": "https://www.mtv.com.lb/OneTV/Live"
-    },
-    "NewsMax": {
-        "url": "https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8?CMCD=cid%3D%22newsmaxlive%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22bd70b78c-a272-4215-8baa-16fa72253162%22%2Csu",
-        "youtube": "",
-        "tag": "News",
-        "site": "https://www.newsmaxtv.com/"
-    },
-    "Smotrim": {
-        "url": "https://vgtrksmotrim.cdnvideo.ru/hls/russia_24/playlist.m3u8?md5=dfkCqhR9WBGEtxi5zQX3bg&e=1691694840",
-        "youtube": "",
-        "tag": "Misc",
-        "site": "https://smotrim.ru/live/21"
     },
     "Al Hadath": {
         "url": "https://av.alarabiya.net/alarabiapublish/alhadath.smil/alhadath_1080p_chunks.m3u8",
@@ -153,12 +129,6 @@
         "youtube": "",
         "tag": "News",
         "site": "https://kan.org.il/live/"
-    },
-    "Emmanuel": {
-        "url": "https://hls-live-web-media.cdn01.net/default/stream_39565_1.m3u8?Z9WEHrrIZeX4r-spkxaCVBS42g3hTi4JfW6-g_0n_RXaFH2VpbtoGr0EOS4NyuFggQecDB2jyEt9CTpV5ZVpgerqpDcqOI-fQFB5J-QwYhrgRHhebpzgqFecwoga6RVw7HwycqsiqkRfI9cuqjpmIGlsOgZaMzYIryVyUoZawEAdCBUp-vD5dkl77Q47FukuZE71BMUcfehU7w&channel_id=39565&source=othersites&device_id=4489198713-4c6299e95138db02598c69150292e572&lcp=2&client_id=347008335512113235&play_id=1691682023494124",
-        "youtube": "",
-        "tag": "Gospel",
-        "site": "https://emmanuel.tv/live/"
     },
     "TeleM1": {
         "url": "https://klive.kaltura.com/env/cluster-1-d.live.nvp1/live/hls/p/1719221/e/1_ljzy3evp/tl/main/st/0/t/aG1N1BfzMxQdZwBcLmPaLw/index-s32.m3u8",
@@ -189,12 +159,6 @@
         "youtube": "",
         "tag": "Misc",
         "site": "https://www.rbtv.com.br/"
-    },
-    "TV Gazeta": {
-        "url": "https://stream-01.nyc.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5v67mUCcH9Sk4bR9poA8Bf51MZPLGXX0fKkLryAeOmYvF)/dm/3/x89qors/s/live-0.m3u8",
-        "youtube": "",
-        "tag": "News",
-        "site": "https://www.tvgazeta.com.br/aovivo/"
     },
     "A12": {
         "url": "https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8",
