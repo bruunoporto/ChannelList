@@ -41,13 +41,6 @@
         "site": "https://www.realmadrid.com/pt/real-madrid-tv"
     },
 
-    "Teletrack": {
-    	"url": "https://mdstrm.com/live-stream-playlist/62616df888feb366839a3eb5.m3u8",
-    	"youtube": "",
-        "tag": "Sports",
-    	"site": "https://www.teletrak.cl/envivo/vivo.html"
-    },
-    
     "Kuriakos": {
     	"url": "https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8",
     	"youtube": "",
@@ -69,13 +62,6 @@
     	"site": "https://3abnlatino.tv/tv/"
     },
     
-    "Aleluya Tv": {
-    	"url": "https://tv.aleluya.cloud:5443/lidp/streams/live2.m3u8",
-    	"youtube": "",
-        "tag": "Gospel",
-    	"site": "https://aleluyatv.org/"
-    },
-    
     "TV Max Rio": {
     	"url": "https://5cf4a2c2512a2.streamlock.net/tvmax/tvmax/playlist.m3u8",
     	"youtube": "",
@@ -88,12 +74,7 @@
         "tag": "Misc",
         "site": "https://www.canale7.tv/"
     },
-    "TV Peru": {
-        "url": "https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index.m3u8",
-        "youtube": "",
-        "tag": "News",
-        "site": "https://www.tvperu.gob.pe/play"
-    },
+
     "Sky News": {
         "url": "https://linear021-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_sd/Live/channel(skynews)/04_hd30.m3u8",
         "youtube": "",
@@ -105,12 +86,6 @@
         "youtube": "",
         "tag": "Music",
         "site": "https://www.mtv.com.lb/OneTV/Live"
-    },
-    "Al Hadath": {
-        "url": "https://av.alarabiya.net/alarabiapublish/alhadath.smil/alhadath_1080p_chunks.m3u8",
-        "youtube": "",
-        "tag": "Misc",
-        "site": "https://www.alhadath.net/live-stream"
     },
     "ANN News": {
         "url": "https://legitpro.co.in/annnews/annnews/tracks-v1a1/mono.m3u8",
@@ -124,12 +99,7 @@
         "tag": "News",
         "site": "https://www.dw.com/pt-br/live-tv/channel-english"
     },
-    "Kan": {
-        "url": "https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8",
-        "youtube": "",
-        "tag": "News",
-        "site": "https://kan.org.il/live/"
-    },
+
     "TeleM1": {
         "url": "https://klive.kaltura.com/env/cluster-1-d.live.nvp1/live/hls/p/1719221/e/1_ljzy3evp/tl/main/st/0/t/aG1N1BfzMxQdZwBcLmPaLw/index-s32.m3u8",
         "youtube": "",
