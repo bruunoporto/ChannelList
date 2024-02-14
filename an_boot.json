@@ -1,25 +1,4 @@
 {
-    "Jovem Pan": {
-        "url": "https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_2.m3u8",
-        "youtube": "",
-        "tag": "News",
-        "site": "https://jovempan.com.br/"
-    },
-
-    "Cartoon Network Shorts": {
-        "url": "https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist-720p.m3u8",
-        "youtube": "",
-        "tag": "Kids",
-        "site": "https://cnapp.cartoonnetwork.com.br/now/freelive1"
-    },
-
-    "Discovery Kids Shorts": {
-        "url": "https://playout.cdn.cartoonnetwork.com.br/playout_07/playlist-720p.m3u8",
-        "youtube": "",
-        "tag": "Kids",
-        "site": "https://www.discoverykids.com.br/now/freelive3"
-    },
-
     "Red Bull TV": {
         "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8",
         "youtube": "",
@@ -27,127 +6,13 @@
         "site": "https://alessandrojean.github.io/m3u8-cli/"
     },
 
-    "NHK": {
-        "url": "https://b-bmcc.nhkworld.jp/live/index_1M.m3u8",
-        "youtube": "",
-        "tag": "News",
-        "site": "https://www3.nhk.or.jp/nhkworld/pt/live/"
-    },
-
-    "Real Madrid TV": {
-        "url": "https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8",
-        "youtube": "",
-        "tag": "Sports",
-        "site": "https://www.realmadrid.com/pt/real-madrid-tv"
-    },
-
-    "Kuriakos": {
-    	"url": "https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8",
-    	"youtube": "",
-        "tag": "Gospel",
-    	"site": "http://www.kuriakos-tv.com/"
-    },
-    
-    "TV Florida": {
-    	"url": "https://srv1.zcast.com.br/tvflorida/tvflorida/playlist.m3u8",
-    	"youtube": "",
-        "tag": "News",
-    	"site": "https://tvfloridausa.com/ao-vivo/"
-    },
-
-    "3ABN": {
-    	"url": "https://3abn-live.akamaized.net/hls/live/2010547/Latino/master.m3u8",
-    	"youtube": "",
-        "tag": "Gospel",
-    	"site": "https://3abnlatino.tv/tv/"
-    },
-    
     "TV Max Rio": {
     	"url": "https://5cf4a2c2512a2.streamlock.net/tvmax/tvmax/playlist.m3u8",
     	"youtube": "",
     	"tag": "Misc",
     	"site": "https://www.tvmaxrio.net/"
     },
-    "Canale 7": {
-        "url": "https://59d7d6f47d7fc.streamlock.net/canale7/canale7/chunklist_w534523333.m3u8",
-        "youtube": "",
-        "tag": "Misc",
-        "site": "https://www.canale7.tv/"
-    },
-
-    "Sky News": {
-        "url": "https://linear021-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_sd/Live/channel(skynews)/04_hd30.m3u8",
-        "youtube": "",
-        "tag": "News",
-        "site": "https://news.sky.com/watch-live"
-    },
-    "MTV Lebanon": {
-        "url": "https://live.3cd.io/v1/broadcast/one/tracks-v3a1/mono.m3u8",
-        "youtube": "",
-        "tag": "Music",
-        "site": "https://www.mtv.com.lb/OneTV/Live"
-    },
-    "ANN News": {
-        "url": "https://legitpro.co.in/annnews/annnews/tracks-v1a1/mono.m3u8",
-        "youtube": "",
-        "tag": "News",
-        "site": "https://legitpro.co.in/annnews/annnews/embed.html"
-    },
-    "DW": {
-        "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/streamPlaylist.m3u8",
-        "youtube": "",
-        "tag": "News",
-        "site": "https://www.dw.com/pt-br/live-tv/channel-english"
-    },
-
-    "TeleM1": {
-        "url": "https://klive.kaltura.com/env/cluster-1-d.live.nvp1/live/hls/p/1719221/e/1_ljzy3evp/tl/main/st/0/t/aG1N1BfzMxQdZwBcLmPaLw/index-s32.m3u8",
-        "youtube": "",
-        "tag": "Misc",
-        "site": "https://www.telem1.ch/live"
-    },
-    "CGTN": {
-        "url": "https://news.cgtn.com/resource/live/english/cgtn-news.m3u8",
-        "youtube": "",
-        "tag": "News",
-        "site": "https://www.cgtn.com/tv"
-    },
-    "TV Publica": {
-        "url": "https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8",
-        "youtube": "",
-        "tag": "News",
-        "site": "https://www.tvpublica.com.ar/"
-    },
-    "Rede Vida": {
-        "url": "https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8",
-        "youtube": "",
-        "tag": "Gospel",
-        "site": "https://www.redevida.com.br/"
-    },
-    "Rede Brasil": {
-        "url": "https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8",
-        "youtube": "",
-        "tag": "Misc",
-        "site": "https://www.rbtv.com.br/"
-    },
-    "A12": {
-        "url": "https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8",
-        "youtube": "",
-        "tag": "News",
-        "site": "https://www.a12.com/tv/tv-ao-vivo"
-    },
-    "AsiaNet": {
-        "url": "https://vidcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live_720p/chunks.m3u8",
-        "youtube": "",
-        "tag": "News",
-        "site": "https://www.asianetnews.com/live-tv"
-    },
-    "India Today": {
-        "url": "https://feeds.intoday.in/hltapps/api/master.m3u8",
-        "youtube": "",
-        "tag": "News",
-        "site": "https://www.indiatoday.in/livetv"
-    },
+  
     "NASA": {
         "url": "https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8",
         "youtube": "",
