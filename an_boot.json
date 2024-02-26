@@ -54,13 +54,6 @@
         "site": "https://www.canale7.tv/"
     },
 
-    "Sky News": {
-        "url": "https://linear021-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_sd/Live/channel(skynews)/04_hd30.m3u8",
-        "youtube": "",
-        "tag": "News",
-        "site": "https://news.sky.com/watch-live"
-    },
-
     "ANN News": {
         "url": "https://legitpro.co.in/annnews/annnews/tracks-v1a1/mono.m3u8",
         "youtube": "",
@@ -97,12 +90,6 @@
         "youtube": "",
         "tag": "Gospel",
         "site": "https://www.redevida.com.br/"
-    },
-    "Rede Brasil": {
-        "url": "https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8",
-        "youtube": "",
-        "tag": "Misc",
-        "site": "https://www.rbtv.com.br/"
     },
     "A12": {
         "url": "https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8",
