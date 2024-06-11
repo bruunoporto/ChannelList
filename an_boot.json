@@ -1,11 +1,4 @@
 {
-    "Jovem Pan": {
-        "url": "https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_2.m3u8",
-        "youtube": "",
-        "tag": "News",
-        "site": "https://jovempan.com.br/"
-    },
-
     "Red Bull TV": {
         "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8",
         "youtube": "",
@@ -108,5 +101,11 @@
         "youtube": "",
         "tag": "News",
         "site": "https://www.nasa.gov/multimedia/nasatv/index.html#public"
+    },
+    "Jovem Pan": {
+        "url": "https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_2.m3u8",
+        "youtube": "",
+        "tag": "News",
+        "site": "https://jovempan.com.br/"
     }
 }
