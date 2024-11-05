@@ -12,6 +12,13 @@
         "tag": "News",
         "site": "https://www3.nhk.or.jp/nhkworld/pt/live/"
     },
+
+    "CGTN": {
+        "url": "https://english-livebkws.cgtn.com/live/encgtn.m3u8",
+        "youtube": "",
+        "tag": "News",
+        "site": "https://www.cgtn.com/tv"
+    },
     
     "Kuriakos": {
     	"url": "https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8",
