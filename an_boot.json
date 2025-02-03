@@ -1,18 +1,4 @@
 {
-    "Red Bull TV": {
-        "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8",
-        "youtube": "",
-        "tag": "Sports",
-        "site": "https://alessandrojean.github.io/m3u8-cli/"
-    },
-
-    "NHK": {
-        "url": "https://b-bmcc.nhkworld.jp/live/index_1M.m3u8",
-        "youtube": "",
-        "tag": "News",
-        "site": "https://www3.nhk.or.jp/nhkworld/pt/live/"
-    },
-
     "CGTN": {
         "url": "https://english-livebkws.cgtn.com/live/encgtn.m3u8",
         "youtube": "",
