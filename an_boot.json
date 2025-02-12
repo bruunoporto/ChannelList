@@ -45,13 +45,6 @@
         "tag": "News",
         "site": "https://www.dw.com/pt-br/live-tv/channel-english"
     },
-
-    "TeleM1": {
-        "url": "https://klive.kaltura.com/env/cluster-1-d.live.nvp1/live/hls/p/1719221/e/1_ljzy3evp/tl/main/st/0/t/aG1N1BfzMxQdZwBcLmPaLw/index-s32.m3u8",
-        "youtube": "",
-        "tag": "Misc",
-        "site": "https://www.telem1.ch/live"
-    },
     "Rede Vida": {
         "url": "https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8",
         "youtube": "",
