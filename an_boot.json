@@ -64,12 +64,6 @@
         "tag": "News",
         "site": "https://www.a12.com/tv/tv-ao-vivo"
     },
-    "AsiaNet": {
-        "url": "https://vidcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live_720p/chunks.m3u8",
-        "youtube": "",
-        "tag": "News",
-        "site": "https://www.asianetnews.com/live-tv"
-    },
     "India Today": {
         "url": "https://feeds.intoday.in/hltapps/api/master.m3u8",
         "youtube": "",
