@@ -7,7 +7,7 @@
     },
 
     "NHK": {
-        "url": "https://media-osa.hls.nhkworld.jp/hls/w/live/1/sig/b527dba4c2c0107cd0d81f089eae2a1bd082fb85b5298f05fb76da71764ce687/s1.m3u8",
+        "url": "https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8",
         "youtube": "",
         "tag": "News",
         "site": "https://www3.nhk.or.jp/nhkworld/en/live/"
